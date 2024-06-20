@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/edutech/static/css/main.d53e3510.css",
-    "main.js": "/edutech/static/js/main.27886800.js",
+    "main.js": "/edutech/static/js/main.b46ed7b2.js",
     "static/js/453.acc3f588.chunk.js": "/edutech/static/js/453.acc3f588.chunk.js",
     "static/media/miya.jpg": "/edutech/static/media/miya.dfa5d69ed76eab45ec2e.jpg",
     "static/media/meta.jpeg": "/edutech/static/media/meta.7e3f88a1b4640d37c922.jpeg",
@@ -12,11 +12,11 @@
     "static/media/ai.png": "/edutech/static/media/ai.0b1f4f6f49e69c33509f.png",
     "index.html": "/edutech/index.html",
     "main.d53e3510.css.map": "/edutech/static/css/main.d53e3510.css.map",
-    "main.27886800.js.map": "/edutech/static/js/main.27886800.js.map",
+    "main.b46ed7b2.js.map": "/edutech/static/js/main.b46ed7b2.js.map",
     "453.acc3f588.chunk.js.map": "/edutech/static/js/453.acc3f588.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d53e3510.css",
-    "static/js/main.27886800.js"
+    "static/js/main.b46ed7b2.js"
   ]
 }
